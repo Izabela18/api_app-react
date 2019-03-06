@@ -1,3 +1,6 @@
+This app features the usage of Appis from https://newsapi.org coded with React library and Materializecss. The app presents my custom news feed.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
