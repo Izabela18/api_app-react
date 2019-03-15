@@ -1,4 +1,4 @@
-This app features the usage of Appis from https://newsapi.org coded with React library and Materializecss. The app presents my custom news feed.
+This app features the usage of Appis from https://newsapi.org coded with React library and Materializecss. The app presents my custom news feed.<br>
 https://news-feed-apis.netlify.com/
 
 
